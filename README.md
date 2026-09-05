@@ -26,7 +26,7 @@ AI • Machine Learning • Data Analytics • Software Development • Full Sta
 
 ## 👩‍💻 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Female Developer Coding GIF">
 
 🎓 **B.Tech CSE (AI & ML)** student at **Kakatiya Institute of Technology and Science, Warangal**
 
@@ -45,6 +45,56 @@ AI • Machine Learning • Data Analytics • Software Development • Full Sta
 🔍 Interested in applying **AI and analytical problem-solving** to real-world challenges
 
 <br clear="right"/>
+
+---
+
+## 💜 A Little About My Journey
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI & ML**
+
+Exploring intelligent systems and machine learning solutions.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**Data**
+
+Working with data, SQL and analytical problem-solving.
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**Software**
+
+Strengthening software engineering and core CS skills.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Full Stack**
+
+Building complete web applications using MERN.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -96,7 +146,7 @@ AI • Machine Learning • Data Analytics • Software Development • Full Sta
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
 </p>
 
@@ -135,11 +185,9 @@ AI • Machine Learning • Data Analytics • Software Development • Full Sta
 <img src="https://img.shields.io/badge/AI%20%2B%20ML-Project-764ba2?style=for-the-badge"/>
 </p>
 
-<p>
 An AI-powered platform designed for personalized learning and interview preparation.
-</p>
 
-**✨ Features**
+### ✨ Features
 
 * 🧠 Machine-learning-based performance analysis
 * 🎯 Personalized learning-path recommendations
@@ -148,9 +196,10 @@ An AI-powered platform designed for personalized learning and interview preparat
 * 💼 Interview readiness analysis
 * 📋 Interactive dashboards
 
-**🔨 Built With**
+### 🔨 Tech Stack
 
 `Python` `Flask` `Scikit-learn`
+
 `Pandas` `NumPy` `SQLite`
 
 </td>
@@ -163,11 +212,9 @@ An AI-powered platform designed for personalized learning and interview preparat
 <img src="https://img.shields.io/badge/MERN-Full%20Stack-43e97b?style=for-the-badge"/>
 </p>
 
-<p>
 A full-stack online mock test platform built using the MERN stack.
-</p>
 
-**✨ Features**
+### ✨ Features
 
 * ⏱️ Timed assessments
 * 📝 Question management
@@ -176,9 +223,10 @@ A full-stack online mock test platform built using the MERN stack.
 * 📊 Performance tracking
 * 📱 Responsive dashboards
 
-**🔨 Built With**
+### 🔨 Tech Stack
 
 `MongoDB` `Express.js`
+
 `React.js` `Node.js`
 
 </td>
@@ -188,7 +236,7 @@ A full-stack online mock test platform built using the MERN stack.
 
 ---
 
-## 📚 Core Computer Science
+## 🧩 Core Computer Science
 
 <p align="center">
 
@@ -208,7 +256,13 @@ A full-stack online mock test platform built using the MERN stack.
 
 ---
 
-## 🎯 2026 Learning Journey
+## 🎯 My Learning Journey
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=764BA2&center=true&vCenter=true&width=700&lines=Learn+%F0%9F%93%9A;Build+%F0%9F%92%BB;Experiment+%F0%9F%A7%AA;Solve+%F0%9F%A7%A0;Create+%E2%9C%A8;Repeat+%F0%9F%9A%80" alt="Learning Journey"/>
+
+</p>
 
 ```text
 🤖 AI & Machine Learning       ███████████████░░░░  Exploring
@@ -238,17 +292,51 @@ A full-stack online mock test platform built using the MERN stack.
 <table align="center">
 
 <tr>
-<td align="center">🤖<br><b>AI / ML</b></td>
-<td align="center">📊<br><b>Data Analytics</b></td>
-<td align="center">💻<br><b>Software</b></td>
-<td align="center">🌐<br><b>Full Stack</b></td>
+
+<td align="center">
+🤖<br>
+<b>AI / ML</b>
+</td>
+
+<td align="center">
+📊<br>
+<b>Data Analytics</b>
+</td>
+
+<td align="center">
+💻<br>
+<b>Software</b>
+</td>
+
+<td align="center">
+🌐<br>
+<b>Full Stack</b>
+</td>
+
 </tr>
 
 <tr>
-<td align="center">🧠<br>Problem Solving</td>
-<td align="center">🗄️<br>SQL & DBMS</td>
-<td align="center">📚<br>Continuous Learning</td>
-<td align="center">🚀<br>Innovation</td>
+
+<td align="center">
+🧠<br>
+Problem Solving
+</td>
+
+<td align="center">
+🗄️<br>
+SQL & DBMS
+</td>
+
+<td align="center">
+📚<br>
+Continuous Learning
+</td>
+
+<td align="center">
+🚀<br>
+Innovation
+</td>
+
 </tr>
 
 </table>
@@ -259,21 +347,25 @@ A full-stack online mock test platform built using the MERN stack.
 
 <p align="center">
 
-💻 <b>Full Stack Projects</b>   •  
-🤖 <b>AI / ML Projects</b>   •  
+💻 <b>Full Stack Projects</b>
+  •  
+🤖 <b>AI / ML Projects</b>
+  •  
 📊 <b>Data Analytics</b>
 
 <br><br>
 
-🗄️ <b>SQL Projects</b>   •  
-✨ <b>Generative AI</b>   •  
+🗄️ <b>SQL Projects</b>
+  •  
+✨ <b>Generative AI</b>
+  •  
 🚀 <b>Agentic AI</b>
 
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -327,13 +419,9 @@ A full-stack online mock test platform built using the MERN stack.
 
 <div align="center">
 
-<h3>🌟 Thanks for visiting my profile! 🌟</h3>
+<h2>🌟 Thanks for visiting my profile! 🌟</h2>
 
-<p>
-<b>Let's build something intelligent together 🤖💻</b>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=764BA2&center=true&vCenter=true&width=600&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Innovate+%E2%80%A2+Repeat+%F0%9F%9A%80;Turning+Ideas+into+Intelligent+Solutions+%F0%9F%A4%96;Code+%2B+Data+%2B+AI+%3D+Possibilities+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=764BA2&center=true&vCenter=true&width=650&lines=Let's+build+something+intelligent+together+%F0%9F%A4%96;Code+%2B+Data+%2B+AI+%3D+Possibilities+%E2%9C%A8;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80" alt="Footer Animation"/>
 
 <br><br>
 
